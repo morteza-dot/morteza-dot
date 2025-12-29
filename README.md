@@ -1,7 +1,7 @@
 ## 🎓 Certifications
 
 - **[Introduction to programming with python](https://cs50.harvard.edu/certificates/a6fbc41f-1d8f-403f-b981-a06c53f1d4e9)** — _CS50_
-
+- 
 - **[Introduction to HTML](https://www.sololearn.com/certificates/CC-N3BN3GVK)** — _SoloLearn_
 - 
 - **[Introduction to CSS](https://www.sololearn.com/certificates/CC-BQ83RICJ)** — _SoloLearn_
