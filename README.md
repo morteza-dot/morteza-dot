@@ -1,6 +1,8 @@
 ## 🎓 Certifications
 
 - **[Introduction to programming with python](https://cs50.harvard.edu/certificates/a6fbc41f-1d8f-403f-b981-a06c53f1d4e9)** — _CS50_
+-
+- **[Introduction to Artificial Intelligence with Python]([https://cs50.harvard.edu/certificates/a6fbc41f-1d8f-403f-b981-a06c53f1d4e9](https://cs50.harvard.edu/certificates/a209ed2e-47dc-4b75-8d87-d69c3fd243ea))** — _CS50_
 - 
 - **[Introduction to HTML](https://www.sololearn.com/certificates/CC-N3BN3GVK)** — _SoloLearn_
 - 
