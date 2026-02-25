@@ -12,7 +12,7 @@
 -
 - **[Introduction to Python](https://www.sololearn.com/certificates/CC-4B8H9JLZ)** — _SoloLearn_
 - 
-- **CS50 Courses (AI, Security, Web, Python✅)** — _CS50_ *(Yet to be done)*  
+- **CS50 Courses (AI✅, Security, Web, Python✅)** — _CS50_ *(Yet to be done)*  
 
 ---
 
